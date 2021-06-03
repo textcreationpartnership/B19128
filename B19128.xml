@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the vent of cloth, and woollen manufactures of this kingdome.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19128</idno><idno type="EEBO-CITATION">99886205</idno>
+  <idno type="VID">188397</idno>
+  <idno type="EEBO-PROQUEST">2240885336</idno>
+  
+            <idno type="STC">Wing C2638</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[44]</idno>
+            <idno type="STC">ESTC R225685</idno>
+            <idno type="PROQUEST">ocm99886205</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886205e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188397)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the vent of cloth, and woollen manufactures of this kingdome.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield, printer to the Vniversity,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: ... Oxford, this 9th day of April, in the twentieth year of Our raigne.</note>
+                  <note>Arms 37; Steele notation: all and 9th.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188397:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>BY THE KING.</head>
+            <head type="sub">¶ A Proclamation for the Vent of Cloth, and Woollen Manufactures of this Kingdome.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS We by Our Proclamations have upon just Grounds restrained and forbidden all Trade and Commerce to and from Our City of <hi>London,</hi> and all other Cities Townes, Ports and Places within this Our Kingdom of <hi>England,</hi> which are not in Our actuall Possession and under Our obedience, but are possessed and held by the Rebels now in Armes against Us, or are Adhering, or Assisting to this Rebellion, untill they shall return or be reduced to their due obedi<g ref="char:EOLhyphen"/>ence, thereby to prevent the Rebells of the meanes, which Trade and Commerce would afford them for the supporting and maintaining of this unnaturall Warre against Us their Soveraigne, and against Our good Subjects. And whereas by Our Proclamation dated the one and Twenti<g ref="char:EOLhyphen"/>eth day of <hi>November</hi> last past, for the better venting of the Cloath and Woollen Manufactures of this Kingdom, We did publish and Declare Our pleasure to be, That it should be lawfull for any of Our Loyall Subjects, to carry all kind of Cloath and other Woollen Manufactures whatsoever, to any Port or Ports, which then were, or after should be in Our obedience and possession, and from thence (paying the Customes and other payments to Us, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> such other payments as have been <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> place in Amity with Us. Which Licence or Freedom, We did likewise thereby give to all Merchants, Strangers, and their Factors, they only paying to Us Strangers-Customes and payments, and such other payments as have been usually answer<g ref="char:EOLhyphen"/>ed and paid for Licences of White Cloaths, as by Our said Proclamation may appeare. Now for the furtherance and quickening of the Vent of Cloath and Wollen Manufactures for the releife and benefit of those Our Subjects (being very many) whose Imployments and Livelyhood consists in clothing and Manufactures of Wooll, and whose Condition, We have taken into Our Princely Consideration; And having heard the opinions of divers Merchants expert in Trade We have upon mature deliberation and debate with Our privy Councell, and with their advice thought fit for the present to abate of Our own profit &amp; Interest in the Customes, Duties, and payments of Merchants-Strangers for those Manufactures and to make them equall with those of Our own Subjects, for their better encouragement in the taking off and exportation of the same; And therefore We do by this Our Proclamation Ordain, Publish, and Declare, That from and after the date of this Our Proclamation, and untill We shall otherwise provide and Ordain and signifie Our Pleasure to the contrary, it shall and may be lawfull to and for any Our Loyall Subjects, and likewise for any Strangers in amity with Us, to carry a<g ref="char:EOLhyphen"/>ny kind of Cloath, or other Woollen Manufactures of this Kingdom whatsoever to any Port or Ports, which either now are, or shall be in Our obedience and possession, and from thence (paying only such Customes and other payments to Us, and such other payments for Licences of White Cloaths as have been usually answered and payd by Our own Subjects) to Ship and Transport the same to any Forraigne place in Amity with Us. And to this purpose We Command all Our Ad<g ref="char:EOLhyphen"/>miralls, Vice-Admiralls, Captains of Ships, Captains of Forts, Customers, Comptrollers, Searchers, and all other Officers Ministers, and Loving Subjects, to give way to the exportation of the same; And that they give the Merchants or their Factors, Strangers, or others neither in their Shipping, nor when they are at Sea, any interuption therein, they produ<g ref="char:EOLhyphen"/>cing their Cocquets that they Shipped forth their Landing from a Port under Our obedience, and in Our possession. And likewise We command all Generalls, Colonells, Captaines of Horse and Foot, and other Our Officers of Our Army, that in their Conveying the said Commodities from any inward part of the Country to any Port as aforesaid, they give no in<g ref="char:EOLhyphen"/>terruption to any of Our Loyall Subjects or Forraigners, Trading as aforesaid.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Oxford,</hi>
+                  <date>this 9<hi>
+                        <seg rend="sup">th</seg>
+                     </hi> day of <hi>April,</hi> in the Twentieth year of Our Raigne.</date>
+               </dateline>
+               <lb/> GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ <hi>Printed at</hi> Oxford, <hi>by</hi> Leonard Lichfield, <hi>Printer to the Ʋniversity,</hi> 1644.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
